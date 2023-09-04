@@ -1,17 +1,31 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:667eea,100:764ba2&height=100&text=EDOC&desc=Think%20the%20Opposite%20of%20the%20CODE&descAlignY=85&animation=fadeIn&fontColor=705FBE&stroke=715AB8&strokeWidth=1)
-
-####  :wave: Welcome my github profile !
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=100&text=EDOC&desc=I’m%20currently%20learning...&descAlignY=85&animation=fadeIn&color=timeAuto&fontColor=000000)
+###  :wave: Welcome my github profile !
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoik1118%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <br/>
- <br/>
-  
-####  :clipboard: Once I've Used 
-  
- <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+####  :speech_balloon: About Me :speech_balloon:
+
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/poik1118/)](https://github.com/poik1118/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/daeseung_03/)](https://www.instagram.com/daeseung_03/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](mailto:poik1118@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:poik031118@gmail.com)](mailto:poik031118@gmail.com)
+
+<br/>
+
+####  :open_book: Once I've Used :open_book:
+
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poik1118&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=donut&theme=transparent)]
+
+
+
+
 <!--
 ### Hi there 👋
 
@@ -29,4 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Header Customize : https://github.com/kyechan99/capsule-render#types
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=100&text=EDOC&desc=I’m%20currently%20learning%20.....&descAlignY=85&animation=fadeIn&color=0:667eea,100:764ba2&fontColor=705FBE&stroke=715AB8&strokeWidth=1)
+
+Readme Stats : https://github.com/anuraghazra/github-readme-stats
 -->
