@@ -10,7 +10,7 @@
 
 ####  :speech_balloon: About Me :speech_balloon:
 
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/poik1118/)](https://github.com/poik1118/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeseung-park-330103381/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/daeseung_03/)](https://www.instagram.com/daeseung_03/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](mailto:poik1118@naver.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:poik031118@gmail.com)](mailto:poik031118@gmail.com)
