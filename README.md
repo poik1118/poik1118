@@ -90,7 +90,7 @@
 
 ---
 
-### 📈 Thanks to Visit
+### :sparkles: Thanks to Visit
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=poik1118&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
