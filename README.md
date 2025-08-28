@@ -1,12 +1,22 @@
 <div align="center"> 
 ###  :wave: Welcome my github profile !
 
-<!-- 중간 크기 앨범 사이즈 - 자몽살구클럽 -->
-<br>
+---
+
+<p align="center">
+  <strong>🎵 Currently Listening</strong><br>
   <a href="https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ">
-    <img src="https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b" alt="Album Cover" width="250">
+    <img src="https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b" alt="자몽살구클럽 - 한로로" width="200">
   </a>
-</br>
+  <br>
+  The 3rd EP.<strong> 자몽살구클럽</strong> by <em>한로로 </em>
+  <br>
+  <a href="https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ">
+    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</p>
+
+---
 
 ####  :speech_balloon: About Me :speech_balloon:
 
@@ -22,3 +32,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=poik1118&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=donut&theme=transparent)
+</div >
