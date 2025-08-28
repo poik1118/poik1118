@@ -16,4 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=donut&theme=transparent)
 
-[![Album Cover](https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b)](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ)
+<!-- 중간 크기 -->
+<a href="https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b" alt="Album Cover" width="250">
+</a>
