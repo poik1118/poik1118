@@ -2,9 +2,11 @@
 ###  :wave: Welcome my github profile !
 
 <!-- 중간 크기 앨범 사이즈 - 자몽살구클럽 -->
-<a href="https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ">
-  <img src="https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b" alt="Album Cover" width="250">
-</a>
+<br>
+  <a href="https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ">
+    <img src="https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b" alt="Album Cover" width="250">
+  </a>
+</br>
 
 ####  :speech_balloon: About Me :speech_balloon:
 
