@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Animated Welcome Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling)
-
-### 👋  Thank you for visiting my profile
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20my%20for%20visiting%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!;Deep+Learning;Machine+Learning;Computer+Vision" alt="Typing SVG" />
@@ -33,8 +31,8 @@
 </tr>
 </table>
 
+<br>
 ---
-
 
 ### 📫 Connect with Me
 
@@ -53,7 +51,7 @@
   </a>
 </p>
 
----
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -89,8 +87,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
-
 ### :tada: Thanks to Visit
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=poik1118&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
@@ -99,5 +95,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
+
 
 </div>
