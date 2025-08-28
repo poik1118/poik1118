@@ -31,7 +31,6 @@
 </tr>
 </table>
 
-<br>
 ---
 
 ### 📫 Connect with Me
