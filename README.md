@@ -1,6 +1,4 @@
 <div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=100&text=EDOC&desc=I’m%20currently%20learning...&descAlignY=85&animation=fadeIn&color=timeAuto&fontColor=000000)
 ###  :wave: Welcome my github profile !
 
 ####  :speech_balloon: About Me :speech_balloon:
@@ -18,27 +16,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=donut&theme=transparent)
 
-
-
-
-<!--
-### Hi there 👋
-
-**poik1118/poik1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Header Customize : https://github.com/kyechan99/capsule-render#types
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=100&text=EDOC&desc=I’m%20currently%20learning%20.....&descAlignY=85&animation=fadeIn&color=0:667eea,100:764ba2&fontColor=705FBE&stroke=715AB8&strokeWidth=1)
-
-Readme Stats : https://github.com/anuraghazra/github-readme-stats
--->
+[![Album Cover](https://i.scdn.co/image/ab67616d0000b273afda752d5db59e06d3f86e3b)](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ)
