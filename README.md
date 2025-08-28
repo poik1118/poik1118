@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Welcome Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling)
 
-## 👋  Thank you for visiting my profile
+### 👋  Thank you for visiting my profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Music+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!;Deep+Learning;Machine+Learning;Computer+Vision" alt="Typing SVG" />
 </p>
 
----
+
 <table align="center">
 <strong> 🎵 Currently Listening </strong>
 <tr>
@@ -35,6 +35,7 @@
 
 ---
 
+
 ### 📫 Connect with Me
 
 <p align="center">
@@ -58,9 +59,9 @@
 
 **Languages & Frameworks**
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -81,16 +82,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poik1118&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poik1118&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-### :sparkles: Thanks to Visit
+### :tada: Thanks to Visit
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=poik1118&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
