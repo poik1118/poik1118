@@ -88,15 +88,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poik1118&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=poik1118&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poik1118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 ---
 
 ### 📈 Thanks to Visit
