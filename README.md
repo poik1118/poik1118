@@ -35,21 +35,6 @@
 
 ---
 
-### 🌟 About Me
-
-```javascript
-const Edoc = {
-    code: ["Python", "C++"],
-    askMeAbout: ["AI", "ComputerVision", "Software", "Hardware", "tech"],
-    technologies: {
-        backEnd: ["Python"],
-        tools: ["Git", "VS Code", "Pycharm"]
-    },
-    currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
-```
-
 ### 📫 Connect with Me
 
 <p align="center">
