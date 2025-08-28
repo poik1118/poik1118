@@ -1,5 +1,5 @@
 <div align="center"> 
-###  :wave: Welcome my github profile !
+<strong> :wave: Welcome my github profile !</strong>
 
 ---
 
@@ -25,6 +25,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](mailto:poik1118@naver.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:poik031118@gmail.com)](mailto:poik031118@gmail.com)
 
+---
 <br/>
 
 ####  :open_book: Once I've Used :open_book:
@@ -33,3 +34,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poik1118&layout=donut&theme=transparent)
 </div >
+
+---
