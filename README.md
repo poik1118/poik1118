@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Welcome Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20my%20for%20visiting%20my%20profile!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=34)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20my%20for%20visiting%20my%20profile!&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=34)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!;Deep+Learning;Machine+Learning;Computer+Vision" alt="Typing SVG" />
