@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Welcome Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20my%20for%20visiting%20my%20profile!&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20for%20visiting%20my%20profile!&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34)
 
 <p align="center">
   <strong>✨ Field of Interest</strong>
