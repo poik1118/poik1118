@@ -4,16 +4,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Thank%20you%20for%20visiting%20my%20profile!&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34)
 
 <p align="center">
-  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!" alt="Typing SVG" />
 
   <strong>✨ Field of Interest ✨</strong><br>
   <em>Deep Learning</em><br>
   <em>Machine Learning</em><br>
   <em>Computer Vision</em><br>
-  
 </p>
 
+---
 
 <table align="center">
 <strong>🎵 Currently Listening 🎵</strong>
