@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!" alt="Typing SVG" />
 
-  <font size="4"> <strong>✨ Field of Interest ✨</strong><br> </font>
+  <font size="8"> <strong>✨ Field of Interest ✨</strong><br> </font>
   <em>Deep Learning</em><br>
   <em>Machine Learning</em><br>
   <em>Computer Vision</em><br>
